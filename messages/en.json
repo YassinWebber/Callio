@@ -1,0 +1,18 @@
+{
+  "HomePage": {
+    "header": {
+      "langswitch": {
+        "en": "English",
+        "ar": "Arabic"
+      }
+    },
+    "hero": {
+      "subtitle": "Fast, Secure, and Unlimited Calls with Zero Downtime",
+      "title": "Crystal Clear Video Calls Anytime, Anywhere",
+      "description": "Experience seamless, high-quality video calls with crystal-clear audio and zero lag. Connect with friends, family, or colleagues — anytime, anywhere. No downloads, no delays, just effortless communication at your fingertipss",
+      "ctahost_btn": "Host a Videocall",
+      "ctajoin_btn": "Join",
+      "rights": "All Right Reserved"
+    }
+  }
+}
